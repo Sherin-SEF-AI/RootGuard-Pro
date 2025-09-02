@@ -2,9 +2,17 @@
 
 A comprehensive, professional-grade rootkit detection and security analysis application built with PyQt6 for Linux systems.
 
+
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-03-37" src="https://github.com/user-attachments/assets/a864cedc-39d9-4ac1-8b9b-fe4e05bf5c4d" />
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-03-37" src="https://github.com/user-attachments/assets/f0ead394-852d-4e74-9e2d-6b05156c015f" />
+
+
 ## Overview
 
 RootGuard Pro is an advanced security tool designed for defensive cybersecurity analysis, providing multi-layered rootkit detection capabilities through behavioral analysis, memory forensics, kernel integrity verification, and AI-powered anomaly detection.
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-18" src="https://github.com/user-attachments/assets/f81618cb-8728-440d-92ca-21e87c868719" />
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-46" src="https://github.com/user-attachments/assets/814abd75-3f25-4986-96e0-901e27b5744b" />
+
 
 ## Features
 
@@ -30,6 +38,11 @@ RootGuard Pro is an advanced security tool designed for defensive cybersecurity 
 - Comprehensive reporting and export functionality
 - SQLite databases for baselines and historical data
 - Dark theme professional UI
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-51" src="https://github.com/user-attachments/assets/a7f09828-62aa-484b-8bd4-7f3679fec63d" />
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-53" src="https://github.com/user-attachments/assets/0af78fa4-62f1-4c1d-b80e-b206735be230" />
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-57" src="https://github.com/user-attachments/assets/f025f9e1-e10f-4998-b434-502227b391fe" />
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-04-59" src="https://github.com/user-attachments/assets/92141b6e-52d6-4ca3-b99e-834c0d39a906" />
+
 
 ## System Requirements
 
@@ -75,6 +88,12 @@ sudo ./rootguard-venv/bin/python main.py
 ```
 
 ### Application Interface
+
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-05-01" src="https://github.com/user-attachments/assets/eaed1be6-6a43-476a-80d8-439456d69055" />
+
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-05-16" src="https://github.com/user-attachments/assets/a41917f9-fc58-44c0-a7af-550d37ff83ba" />
+
+<img width="1919" height="1012" alt="Screenshot from 2025-09-02 21-05-24" src="https://github.com/user-attachments/assets/06355294-553a-4813-89a4-f085cc30b7d1" />
 
 RootGuard Pro features a tabbed interface with specialized analysis modules:
 
