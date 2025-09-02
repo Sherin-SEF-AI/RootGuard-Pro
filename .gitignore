@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+rootkit-venv/
+rootguard-venv/
+ENV/
+env/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+logs/
+
+# Reports
+reports/
+*.pdf
+*.html
+*.csv
+
+# Temporary files
+*.tmp
+temp/
+.cache/
+
+# PyQt
+*.ui.py
+*.qrc.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Security sensitive
+config/api_keys.json
+config/credentials.json
+*.pem
+*.key
+
+# Model files
+*.pkl
+*.model
+*.h5
+
+# YARA rules (if downloaded)
+yara_rules/*.yar
+yara_rules/*.yara
+
+# Evidence files
+evidence/
+forensic_data/
